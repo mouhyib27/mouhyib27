@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working with Laravel and Flutter
 - 👯 I’m looking to collaborate with other developers on mobile and web exciting projects
-- ⚡ Fun fact: I love to watching horror movies and I'm a great fan of Stephen KING 😄!
+- ⚡ Fun fact: I love watching horror movies and I'm a great fan of Stephen KING 😄!
 
 
 ### Connect with me!
