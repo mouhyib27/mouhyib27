@@ -19,10 +19,12 @@
 <p>
   <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
   <img alt="flutter" width="26px" src="https://img.icons8.com/color/48/fa314a/flutter.png"/>
+  <img alt="laravel" width="26px" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+  <img alt="spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
   <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+  <img alt="angular" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
   <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
   <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-  <img alt="laravel" width="26px" src="https://img.icons8.com/windows/32/fa314a/laravel.png"/>
 </p>
 
 [linkedin]:https://www.linkedin.com/in/mouhyidine-ouedraogo-960
