@@ -2,8 +2,8 @@
 
 ## I'm a higly motivated mobile and web Developer!
 
-- 🌱 I’m currently working with Laravel and Flutter
-- 👯 I’m looking to collaborate with other developers on mobile and web exciting projects
+- 🌱 I’m currently working with Angular and Flutter
+- 👯 I’m looking to collaborate on mobile and web exciting projects.
 - ⚡ Fun fact: I love watching horror movies and I'm a great fan of Stephen KING 😄!
 
 
