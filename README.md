@@ -19,6 +19,8 @@
 
 ### Languages and Tools:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouhyib27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
   <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
   <img alt="flutter" width="26px" src="https://img.icons8.com/color/48/fa314a/flutter.png"/>
